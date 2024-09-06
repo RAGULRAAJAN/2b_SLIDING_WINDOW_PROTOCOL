@@ -12,13 +12,17 @@ To implent the program for the implementationof sliding window protocol
 6. Stop the Program
 ## PROGRAM:
   ## Client:
-  ![Alt text](<../Screenshot 2024-09-06 141646.png>)
+  ![2bclient](https://github.com/user-attachments/assets/5804c603-9180-490b-a6da-1b3423eeb7b9)
+
   ## Server:
-  ![Alt text](<../Screenshot 2024-09-06 141746.png>)
+  ![2bserver](https://github.com/user-attachments/assets/a97d7502-fc75-4879-9b40-6a9513cb2ff7)
+
 ## OUPUT
   ## Client:
-  ![Alt text](../2bclient.png)
+ ![Screenshot 2024-09-06 141646](https://github.com/user-attachments/assets/cfc83900-34c2-41a9-b595-c978d3377596)
+
   ## Server:
-  ![Alt text](../2bserver.png)
+  ![Screenshot 2024-09-06 141746](https://github.com/user-attachments/assets/9dfa836e-98bb-4dee-8001-c4f7bcbb599d)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
